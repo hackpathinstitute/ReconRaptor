@@ -1,0 +1,19 @@
+==================================================
+WEBSITE INFORMATION SCAN REPORT
+==================================================
+
+Scan Date: 2025-04-06 11:25:24
+Target URL: http://testhtml5.vulnweb.com/
+IP Address: 44.228.249.3
+
+SERVER INFORMATION:
+--------------------
+server: nginx/1.19.0
+x-powered-by: Not found
+content-type: text/html; charset=utf-8
+status_code: 200
+
+DETECTED TECHNOLOGIES:
+--------------------
+- jQuery
+- Nginx

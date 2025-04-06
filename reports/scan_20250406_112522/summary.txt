@@ -1,0 +1,21 @@
+==================================================
+RECONRAPTOR SCAN SUMMARY
+==================================================
+
+Scan Date: 2025-04-06 11:25:24
+Target: http://testhtml5.vulnweb.com/
+
+SCAN MODULES EXECUTED:
+--------------------
+- Website Information Scanner
+- Vulnerability Scanner (Planned)
+
+KEY FINDINGS:
+--------------------
+Technologies Detected: 2
+Server Information: True
+IP Address: True
+
+REPORT FILES:
+--------------------
+- website_info.txt
